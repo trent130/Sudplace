@@ -11,7 +11,7 @@ Sudplace is a minimalistic note-taking site developed as part of the Student Inn
 
 To get started with Sudplace, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/sudplace.git`
+1. Clone the repository: `git clone https://github.com/trent130/sudplace.git`
 2. Navigate to the project directory: `cd sudplace`
 3. Install dependencies: `npm install` or `yarn install`
 4. Start the application: `npm start` or `yarn start`
